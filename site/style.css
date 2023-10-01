@@ -1,7 +1,18 @@
-/* HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER */
-.nav{
-	
+*{
+	margin: 0;
+	padding: 0;
 }
+
+/* HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER */
+header{
+	display: flex;
+}
+
+.nav{
+	display: flex;
+
+}
+
 
 
 
