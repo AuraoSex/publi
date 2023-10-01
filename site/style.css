@@ -1,0 +1,31 @@
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+/ HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER /
+header{
+    display: flex;
+}
+
+header img{
+    width: 150px;
+}
+
+.nav{
+    display: flex;
+}
+
+.nav ul, .subnav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+
+
+/ CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT */
