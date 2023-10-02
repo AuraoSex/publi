@@ -152,3 +152,13 @@ footer{
 .Endereço a{
     color: rgb(191, 191, 191);
 }
+
+.product-box, img{
+    width: 227px;
+}
+
+.div-text-product{
+    width: 210px;
+    font-size: 12px;
+    margin: 17px;
+}
