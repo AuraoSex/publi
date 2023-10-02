@@ -190,3 +190,13 @@ footer{
 .menu{
     display: flex;
 }
+
+#titulo-festival{
+    margin: 30px 0px;
+    margin-left: 32px;
+}
+
+#titulo-promocao{
+    margin: 30px 0px;
+    margin-left: 32px;
+}
