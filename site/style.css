@@ -87,69 +87,49 @@ header .nav img {
 
 
 
-footer {
-
+/* footer */
+footer{
+    width: 100%;
+    height: 250px;
+}
+.container {
     background-color: black;
+    color: lightgrey;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 100%;
-    height: 170px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
-
-form {
-
-
-    color: lightgrey;
-
-
-}
-
-h3 {
-
-
+.Sociaisdiv h3 {
     text-decoration: underline;
-
-
 }
 
 .Sociaisdiv {
-
-    text-decoration: underline;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     width: 100px;
-    margin-bottom: 40px;
-    text-decoration: none;
-
 }
 
 .Pagamentos1 {
-
     text-decoration: underline;
     display: flex;
     align-items: center;
-    justify-content: center;
-
-
-
+    justify-content: center;    
 }
 
 
-
-
-
-.Rua {
-
-    color: lightgrey;
-
+.Endereço{
+    position: relative;
+    bottom: 80px;
+    margin: 0px 0px 20px 20px;  
+    color: white;
 }
 
-.Contatos {
-
-    display: block;
-    padding: 8px 16px;
-    float: right;
-
+.Endereço a{
+    color: rgb(191, 191, 191);
 }
