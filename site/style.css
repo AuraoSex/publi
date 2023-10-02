@@ -104,7 +104,7 @@ footer{
 }
 
 .Sociaisdiv h3 {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .Sociaisdiv {
@@ -125,7 +125,7 @@ footer{
 }
 .Pagamentos1 p{
     display: block;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .Pagamentos1 div img{
